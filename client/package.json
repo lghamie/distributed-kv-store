@@ -1,0 +1,17 @@
+{
+  "name": "ditkv-client",
+  "version": "1.0.0",
+  "description": "Distributed key value client",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lucas.hamie",
+  "license": "MIT",
+  "dependencies": {
+    "randomstring": "^1.1.5",
+    "request": "^2.73.0",
+    "request-promise": "^4.0.0",
+    "winston": "^2.2.0"
+  }
+}
